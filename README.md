@@ -1,3 +1,3 @@
 Demo
 
-some newly created file demo
+some newly created file demos
